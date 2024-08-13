@@ -15,4 +15,3 @@ if (numero3 > maior) {
     maior = numero3
 }
 console.log(maior)
-    

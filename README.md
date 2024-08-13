@@ -7,3 +7,5 @@
 ## 3) Crie um script que receba uma nota de 0 a 100 e classifique como Insuficiente se for abaixo de 50, Suficiente se for maior ou igual a 50 e menos que 70, "Bom" se for maior ou igual a 70 e menor que noventa, "Excelente" se for maior ou igual a 90.
 
 ## 4) Peça ao usuário para inserir uma senha e verifique se a senha está correta (exemplo "1234").
+
+# git add --all && git commit -m "atividades concluidas" && git push
