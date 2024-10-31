@@ -1,8 +1,8 @@
 var nome = "Davi";
-var n = 0;
+var n = nome.length -1
 
-while (n < nome.length) {
+while (n >=0) {
     console.log(nome[n]);
-    n++;
+    n--;
 }
 console.log("Fim.");
